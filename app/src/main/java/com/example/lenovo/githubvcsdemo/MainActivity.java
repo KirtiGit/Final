@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
     public void  aVoid(View view)
     {
-        Toast.makeText(this, "clicked", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "clicked for second time", Toast.LENGTH_SHORT).show();
     }
 }
